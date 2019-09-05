@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1566655429 source:c:\users\rwswiss\desktop\test\gra\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Character.h"
+	"game.h"
+
+1566451767 c:\users\rwswiss\desktop\test\gra\include\character.h
+	<string>
+
+1566655018 c:\users\rwswiss\desktop\test\gra\include\game.h
+	<string>
+
+1566300144 source:c:\users\rwswiss\desktop\test\gra\src\character.cpp
+	"Character.h"
+
+1566655074 source:c:\users\rwswiss\desktop\test\gra\src\game.cpp
+	"game.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
